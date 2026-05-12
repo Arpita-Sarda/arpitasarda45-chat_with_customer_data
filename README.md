@@ -34,8 +34,8 @@ Get free API key from: https://makersuite.google.com/app/apikey
 
 **For Mac/Linux:**
 ```bash
-git clone https://github.com/Arpita-Sarda/arpitasarda45-chat_with_customer_data
-cd chat-with-customer-data
+git clone https://github.com/Arpita-Sarda/arpitasarda45-chat_with_customer_data.git
+cd arpitasarda45-chat_with_customer_data
 python3 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
@@ -45,8 +45,8 @@ streamlit run app.py
 
 **For Windows (Command Prompt):**
 ```bash
-git clone https://github.com/Arpita-Sarda/arpitasarda45-chat_with_customer_data
-cd chat-with-customer-data
+git clone https://github.com/Arpita-Sarda/arpitasarda45-chat_with_customer_data.git
+cd arpitasarda45-chat_with_customer_data
 python -m venv myenv
 myenv\Scripts\activate
 pip install -r requirements.txt
